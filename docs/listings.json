@@ -2,9 +2,7 @@
   {
     "listing": "/src/blog/index.html",
     "items": [
-      "/src/blog/posts/abc/abc.html",
-      "/src/blog/posts/post-with-code/index.html",
-      "/src/blog/posts/welcome/index.html"
+      "/src/blog/posts/memory.html"
     ]
   },
   {

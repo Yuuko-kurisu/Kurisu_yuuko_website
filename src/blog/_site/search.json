@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code 1\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n追忆似水年华\n\n\n\n\n\n\n\nblog\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/memory.html",
+    "href": "posts/memory.html",
+    "title": "追忆似水年华",
+    "section": "",
+    "text": "忆起来这首歌，小时候听的时候觉得比较渗人，但是调子简洁又好听，所以到现在还记得。搜了一下发现还是邓丽君唱的，不过即使现在再听依然觉得不适合做儿歌。。。\n\n\n\n\n之前在各种场合都听过这个词，因为简单易懂就没深究过出处，还以为是网络流行词。原来是因为只有我没读过[[Harry potter]]"
+  },
+  {
+    "objectID": "posts/memory.html#生活",
+    "href": "posts/memory.html#生活",
+    "title": "追忆似水年华",
+    "section": "生活",
+    "text": "生活\n\n星际牛仔\n\ncall me call me Let me know it’s alright\n\n\n\n\n千手观音\n看[[汪曾祺]]的 [[人间草木]] ，提到大足的千手观音石刻很震撼。 我其实完全想象不出场景，印象中的千手观音就是一个人后面多几只手围成一个圆，不知道千手从何得名 后来网上一搜发现真的有一千只手，是自己孤陋寡闻了\n\n\n\n罗马假日\n\n\n\n碎碎念\n\n可以常去书店，虽然去书店很少会买书，但是更容易接触到可能喜欢的书。电子书更加合适点对点的寻找，如果现在尚无喜欢的书，不如多去书店看看\n假如有人问我烦忧的缘故，我不敢说出你的名字\n靡不有初，鲜可有终\n陆止于此、海始于斯 （葡萄牙语：Onde a terra acaba e o mar começa）"
   }
 ]

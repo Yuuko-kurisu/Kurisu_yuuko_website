@@ -18,7 +18,7 @@
     "href": "Guide.html",
     "title": "Kurisu yuuko's website",
     "section": "",
-    "text": "日常渲染和预览\n\nquarto preview\nquarto render\n\n渲染好之后发布"
+    "text": "日常渲染和预览\n\nquarto preview\nquarto render\n\n渲染好之后发布\n\nGit push即可\n\n参考资料\n\n夸尔托 - GitHub 页面 (quarto.org)\n\n第二个试了不太行，还是弄简单的"
   },
   {
     "objectID": "index.html",
@@ -32,7 +32,7 @@
     "href": "Readme.html",
     "title": "Kurisu yuuko's website",
     "section": "",
-    "text": "Kurisu_yuuko_website"
+    "text": "Kurisu_yuuko_website\nwebsite：Kurisu yuuko’s website - Kurisu yuuko’s Homepage (yuuko-kurisu.github.io)"
   },
   {
     "objectID": "src/blog/about.html",
@@ -46,7 +46,7 @@
     "href": "src/blog/index.html",
     "title": "blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code 1\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n追忆似水年华\n\n\n\n\n\n\n\nblog\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/blog/posts/abc/abc.html",
@@ -123,7 +123,7 @@
     "href": "src/proceeding/posts/knowledge.html",
     "title": "知识系统问题整理文档",
     "section": "",
-    "text": "利用遗传编程算法GP提取业务知识图中的必要节点。在GP算法中，令度、度中心性、接近中心性、特征向量中心性、聚类系数和平均邻接距离作为基础规则，使用加减乘、取max和取min作为运算符对基础规则进行组合，得到最终的组合规则。通过组合规则对业务图中的所有节点计算重要度并排序，越靠前的节点越重要。\n为了验证GP算法得到的组合规则是否正确选择了必要知识，使用专家打分的方式预先确定了业务过程中的一些必要知识，共11个。将组合规则提取的前40%重要的知识与人为标定的知识做对照，正确选择的必要知识越多，说明得到的组合规则效果越好。同时，该匹配度也作为GP算法的适应度函数。\n\n\n\n\n手持式，固定遥测式和无人机探测三类，共涉及58个关键知识。企业目前已有19个手持式业务案例、10个固定遥测式案例和5个无人机探测案例。得到11个必要知识。\n使用erdos数案例验证有效性\n\n\n\n\n\n知识数量和业务案例数太少，和后面两章同步\nGP树可视化图需要美化一下\n\n\n\n\n\n\n\n对于工业开发的实际流程来说，业务过程通常存在一定的顺序和流程，以智能监测业务的开发流程为例，智能检测大致遵循使用监测设备-调用监测模型算法进行诊断-整理和输出监测结果等流程，且在标准化的历史业务案例文档中，监测业务涉及到的具体知识也以特定的顺序呈现。如何考虑业务知识之间的顺序进行序贯的推荐是目前推荐算法的一大难题\n基于序的推荐算法考虑了业务开发过程中涉及知识的序的关系，并进一步提出了强序和弱序的概念。基于当前知识寻找推荐邻域并计算推荐权重，之后进行基于序的序贯推荐\n\n\n\n\n\n\n\n\n\n\n没有设置无人机业务的路线图和相关案例\n提取特定业务时暂未使用类团检测方法\n社区发现前后的网络图需要改进，改成类似聚类图的效果（考虑顺便改进下社区发现算法）\n单步推荐可视化的图改进的好看一点\n序权重的直方图和曲线图美化一下"
+    "text": "利用遗传编程算法GP提取业务知识图中的必要节点。在GP算法中，令度、度中心性、接近中心性、特征向量中心性、聚类系数和平均邻接距离作为基础规则，使用加减乘、取max和取min作为运算符对基础规则进行组合，得到最终的组合规则。通过组合规则对业务图中的所有节点计算重要度并排序，越靠前的节点越重要。\n为了验证GP算法得到的组合规则是否正确选择了必要知识，使用专家打分的方式预先确定了业务过程中的一些必要知识，共11个。将组合规则提取的前40%重要的知识与人为标定的知识做对照，正确选择的必要知识越多，说明得到的组合规则效果越好。同时，该匹配度也作为GP算法的适应度函数。\n\n\n\n\n手持式，固定遥测式和无人机探测三类，共涉及58个关键知识（按找出现频率，又分为主要知识和次要知识两类）。企业目前已有19个手持式业务案例、10个固定遥测式案例和5个无人机探测案例。得到11个必要知识。\n使用erdos数案例验证有效性\n\n\n\n\n\n知识数量和业务案例数太少，和后面两章同步\nGP树可视化图需要美化一下\n\n\n\n\n\n\n\n对于工业开发的实际流程来说，业务过程通常存在一定的顺序和流程，以智能监测业务的开发流程为例，智能检测大致遵循使用监测设备-调用监测模型算法进行诊断-整理和输出监测结果等流程，且在标准化的历史业务案例文档中，监测业务涉及到的具体知识也以特定的顺序呈现。如何考虑业务知识之间的顺序进行序贯的推荐是目前推荐算法的一大难题\n基于序的推荐算法考虑了业务开发过程中涉及知识的序的关系，并进一步提出了强序和弱序的概念。基于当前知识寻找推荐邻域并计算推荐权重，之后进行基于序的序贯推荐\n\n\n\n\n手持式，固定遥测式和无人机探测三类，共涉及108个关键知识（按找出现频率，又分为主要知识和次要知识两类。并且从算法、模型、模块、资源维度对知识进行了分类。AGV业务划分了两种业务方案，其他两类业务各有一种有序的业务方案）。\n基于序的序贯推荐算法和基于相关性的推荐算法做对比试验\n\n\n\n\n\n没有设置无人机业务的路线图和相关案例\n提取特定业务时暂未使用类团检测方法\n社区发现前后的网络图需要改进，改成类似聚类图的效果（考虑顺便改进下社区发现算法）\n单步推荐可视化的图改进的好看一点\n序权重的直方图和曲线图美化一下\n\n\n\n\n\n\n\n智能排气监测通常有AGV（无人机）远程监测、手持式监测和固定式遥测三种业务，每种业务的执行过程中都涉及一些知识。在企业的运营过程中这些业务会积累很多案例，现在想要根据这些案例抽取某种业务的范式。\n把业务范式提取过程转换为弦图中的知识主干路径搜索的过程，具体流程如下：\n\n选择起点：利用演化计算的方式，通过多种指标找出业务知识网络中的重要节点，在其基础上找出每个重要节点在域内联系最紧密（一致性最大）的节点，作为起点类团，最终得到由一批起点类团构成的种群，并进行后续的路径搜索。\n搜索路径：对于每个起点类团，基于域之间的一致性指标，从后续的每个域之中寻找一个合适的子域。最终把其中最优的子域作为知识路径的下一个域，并继续寻找直到所有知识域都被检索到。最终得到一批知识路径。\n知识路径评价：根据域间知识的关联强度，评价路线或者业务范式的优劣。\n范式精简：考虑到某些业务确实不需要所有的知识域，例如手持式方案通常用不到算法类型的知识。因此，需要对知识路径进行精简，去除不必要的知识域。\n\n\n\n\n\n手持式，固定遥测式和无人机探测三类，共涉及108个关键知识（按找出现频率，又分为主要知识和次要知识两类。并且从算法、模型、模块、资源维度对知识进行了分类。AGV业务划分了两种业务方案，其他两类业务各有一种有序的业务方案）。（和推荐章节的数据大致相同）\n提取了无人机业务的两种业务范式，作为对比实验，分别考虑不使用知识域直接提取知识主干和不使用异质性直接输出多个知识主干，分别验证了知识域和异质性在范式提取中的重要些。\n\n\n\n\n\n弦图再改进一下，把帕累托曲线放进弦图里面\n最后输出的范式输出两个，分别是q-learning和蚁群算法的"
   },
   {
     "objectID": "src/proceeding/posts/website.html",
@@ -243,5 +243,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "src/blog/posts/memory.html",
+    "href": "src/blog/posts/memory.html",
+    "title": "追忆似水年华",
+    "section": "",
+    "text": "忆起来这首歌，小时候听的时候觉得比较渗人，但是调子简洁又好听，所以到现在还记得。搜了一下发现还是邓丽君唱的，不过即使现在再听依然觉得不适合做儿歌。。。\n\n\n\n\n之前在各种场合都听过这个词，因为简单易懂就没深究过出处，还以为是网络流行词。原来是因为只有我没读过[[Harry potter]]"
+  },
+  {
+    "objectID": "src/blog/posts/memory.html#生活",
+    "href": "src/blog/posts/memory.html#生活",
+    "title": "追忆似水年华",
+    "section": "生活",
+    "text": "生活\n\n星际牛仔\n\ncall me call me Let me know it’s alright\n\n\n\n\n千手观音\n看[[汪曾祺]]的 [[人间草木]] ，提到大足的千手观音石刻很震撼。 我其实完全想象不出场景，印象中的千手观音就是一个人后面多几只手围成一个圆，不知道千手从何得名 后来网上一搜发现真的有一千只手，是自己孤陋寡闻了\n\n\n\n罗马假日\n\n\n\n碎碎念\n\n可以常去书店，虽然去书店很少会买书，但是更容易接触到可能喜欢的书。电子书更加合适点对点的寻找，如果现在尚无喜欢的书，不如多去书店看看\n假如有人问我烦忧的缘故，我不敢说出你的名字\n靡不有初，鲜可有终\n陆止于此、海始于斯 （葡萄牙语：Onde a terra acaba e o mar começa）"
   }
 ]
