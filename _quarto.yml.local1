@@ -1,0 +1,76 @@
+project:
+  type: website
+  # render:
+  # - "README.md"
+# execute:
+#   cache:true
+website:
+  title: "Kurisu yuuko's website"
+  page-navigation: true
+  reader-mode: true
+  search: true
+  navbar:
+    background: primary #背景颜色
+    foreground: dark
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: about
+      - href: CV.qmd
+        text: CV
+  sidebar:
+    style: "docked" #停靠或者浮动 floating
+    type: 
+    alignment: center
+    search: true
+    # contents: auto
+    collapse-level: 3
+    contents:
+      - section: "Kurisu's Blog"
+        contents:
+          - href: src\weekly\index.qmd
+            text: Weekly
+          - href: src\blog\index.qmd
+            text: Blog
+      - section: "Project"
+        contents:
+          - href: src\projectshow\index.qmd
+            text: Project'show
+          - href: src\proceeding\index.qmd
+            text: Project'proceeding
+      - section: "Technical"
+        contents:
+          - href: src\techdoc\index.qmd
+            text: Technical Document
+          - href: src\paperread\index.qmd
+            text: Read Papers
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
+  page-footer: 
+    # border:false
+    background: light
+    left: "Copyright 2021, Kurisu Yukko" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-actions: [edit, issue]
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

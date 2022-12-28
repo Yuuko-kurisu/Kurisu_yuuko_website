@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code 1\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n知识系统问题整理文档\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\nknowledge\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n个人网站搭建记录\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/knowledge.html",
+    "href": "posts/knowledge.html",
+    "title": "知识系统问题整理文档",
+    "section": "",
+    "text": "利用遗传编程算法GP提取业务知识图中的必要节点。在GP算法中，令度、度中心性、接近中心性、特征向量中心性、聚类系数和平均邻接距离作为基础规则，使用加减乘、取max和取min作为运算符对基础规则进行组合，得到最终的组合规则。通过组合规则对业务图中的所有节点计算重要度并排序，越靠前的节点越重要。\n为了验证GP算法得到的组合规则是否正确选择了必要知识，使用专家打分的方式预先确定了业务过程中的一些必要知识，共11个。将组合规则提取的前40%重要的知识与人为标定的知识做对照，正确选择的必要知识越多，说明得到的组合规则效果越好。同时，该匹配度也作为GP算法的适应度函数。\n\n\n\n\n手持式，固定遥测式和无人机探测三类，共涉及58个关键知识。企业目前已有19个手持式业务案例、10个固定遥测式案例和5个无人机探测案例。得到11个必要知识。\n使用erdos数案例验证有效性\n\n\n\n\n\n知识数量和业务案例数太少，和后面两章同步\nGP树可视化图需要美化一下\n\n\n\n\n\n\n\n对于工业开发的实际流程来说，业务过程通常存在一定的顺序和流程，以智能监测业务的开发流程为例，智能检测大致遵循使用监测设备-调用监测模型算法进行诊断-整理和输出监测结果等流程，且在标准化的历史业务案例文档中，监测业务涉及到的具体知识也以特定的顺序呈现。如何考虑业务知识之间的顺序进行序贯的推荐是目前推荐算法的一大难题\n基于序的推荐算法考虑了业务开发过程中涉及知识的序的关系，并进一步提出了强序和弱序的概念。基于当前知识寻找推荐邻域并计算推荐权重，之后进行基于序的序贯推荐\n\n\n\n\n\n\n\n\n\n\n没有设置无人机业务的路线图和相关案例\n提取特定业务时暂未使用类团检测方法\n社区发现前后的网络图需要改进，改成类似聚类图的效果（考虑顺便改进下社区发现算法）\n单步推荐可视化的图改进的好看一点\n序权重的直方图和曲线图美化一下"
+  },
+  {
+    "objectID": "posts/website.html",
+    "href": "posts/website.html",
+    "title": "个人网站搭建记录",
+    "section": "",
+    "text": "2022年12月28日：根据quarto 的教程和模板搭建了网站内容的基本框架，之后逐渐开始填写内容\n\n之后的打算：以周为单位填充网站内容\n\n\n\n\n\n\n主页、个人简历页相关内容补充\n找到各种类型文档的范式"
+  }
+]
