@@ -1,0 +1,50 @@
+[
+  {
+    "listing": "/src/blog/index.html",
+    "items": [
+      "/src/blog/posts/abc/abc.html",
+      "/src/blog/posts/post-with-code/index.html",
+      "/src/blog/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/src/paperread/index.html",
+    "items": [
+      "/src/paperread/posts/abc/abc.html",
+      "/src/paperread/posts/post-with-code/index.html",
+      "/src/paperread/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/src/proceeding/index.html",
+    "items": [
+      "/src/proceeding/posts/knowledge.html",
+      "/src/proceeding/posts/website.html"
+    ]
+  },
+  {
+    "listing": "/src/projectshow/index.html",
+    "items": [
+      "/src/projectshow/posts/abc/abc.html",
+      "/src/projectshow/posts/post-with-code/index.html",
+      "/src/projectshow/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/src/techdoc/index.html",
+    "items": [
+      "/src/techdoc/posts/abc/abc.html",
+      "/src/techdoc/posts/post-with-code/index.html",
+      "/src/techdoc/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/src/weekly/index.html",
+    "items": [
+      "/src/weekly/posts/abc/abc.html",
+      "/src/weekly/posts/post-with-code/index.html",
+      "/src/weekly/posts/test1.html",
+      "/src/weekly/posts/welcome/index.html"
+    ]
+  }
+]
