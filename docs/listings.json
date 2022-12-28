@@ -16,6 +16,7 @@
   {
     "listing": "/src/proceeding/index.html",
     "items": [
+      "/src/proceeding/posts/cognitivecomputing.html",
       "/src/proceeding/posts/knowledge.html",
       "/src/proceeding/posts/website.html"
     ]

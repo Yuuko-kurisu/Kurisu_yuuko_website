@@ -116,7 +116,7 @@
     "href": "src/proceeding/index.html",
     "title": "blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n知识系统问题整理文档\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\nknowledge\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n个人网站搭建记录\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n认知计算推进文档\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\n\n\nxxx\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n知识系统问题整理文档\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\nknowledge\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n个人网站搭建记录\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/proceeding/posts/knowledge.html",
@@ -257,5 +257,12 @@
     "title": "追忆似水年华",
     "section": "生活",
     "text": "生活\n\n星际牛仔\n\ncall me call me Let me know it’s alright\n\n\n\n\n千手观音\n看[[汪曾祺]]的 [[人间草木]] ，提到大足的千手观音石刻很震撼。 我其实完全想象不出场景，印象中的千手观音就是一个人后面多几只手围成一个圆，不知道千手从何得名 后来网上一搜发现真的有一千只手，是自己孤陋寡闻了\n\n\n\n罗马假日\n\n\n\n碎碎念\n\n可以常去书店，虽然去书店很少会买书，但是更容易接触到可能喜欢的书。电子书更加合适点对点的寻找，如果现在尚无喜欢的书，不如多去书店看看\n假如有人问我烦忧的缘故，我不敢说出你的名字\n靡不有初，鲜可有终\n陆止于此、海始于斯 （葡萄牙语：Onde a terra acaba e o mar começa）"
+  },
+  {
+    "objectID": "src/proceeding/posts/cognitivecomputing.html",
+    "href": "src/proceeding/posts/cognitivecomputing.html",
+    "title": "认知计算推进文档",
+    "section": "",
+    "text": "大致分为三个阶段:\n\n提取认知经验：把多模态认知数据转化为标准化的经验\n\n工厂的预测性维护里面，有经验的维修师傅判断设备需不需要维护的时候有自己的一套流程，比如先看发动机，再看齿轮箱，看的时候也有一个思考的过程。目前有研究把这种认知经验考虑进去，捕捉人的眼动数据，收集人的脑电信号，再用一些模型算法去分析这些数据。\n\n基于以往认知经验的推荐\n\n类似于目前推荐系统在做的工作，针对当前任务，根据以往经验进行认知推荐\n\n经验的使用和反馈\n\n工作人员使用的认知经验和自身经验冲突时，如何在两者之间做一个融合\n\n\n\n\n\n如何细化并推进里面的内容：先查阅一点资料，一遍看一遍思考，可以先做一个demo\n\n其他的不管，先了解第一块，其他人是怎么做的，自己是否也能做。\n\n\n\n\n\n\n2022年12月28日：\n\n一周时间调研：\n\n调研内容：（1）大一点的方向：认知加预测性维护，别人怎么做的（2）小一点的方向：有关多模态的认知经验，如何提取信号，如何转换为经验\n调研输出：大范围粗读加几篇论文精读\n\n粗读论文：别人是怎么做的，总结出来，是否有一些灵感\n精度论文：别人具体是怎么做的，自己是否可以参考和复现，能不能把别人的东西讲清楚\n思考输出：一些idea和收获\n一个或者两个文档（收获加文章精读文档）\n\n论文阅读规划\n\n认知加预测性维护综述\n挑选几篇可复现的方案\n\nextra：论文粗读、精读、收获总结的流程打通\n\n\n\n\n\n\n\n整理总体思路\n整理学习资料和学习路线\n论文阅读规划"
   }
 ]
