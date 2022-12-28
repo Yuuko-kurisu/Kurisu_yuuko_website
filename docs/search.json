@@ -46,7 +46,7 @@
     "href": "src/blog/index.html",
     "title": "blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n追忆似水年华\n\n\n\n\n\n\n\nblog\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n又携书剑路茫茫\n\n\n\n\n\n\n\nblog\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n追忆似水年华\n\n\n\n\n\n\n\nblog\n\n\nrecord\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/blog/posts/abc/abc.html",
@@ -81,7 +81,7 @@
     "href": "src/paperread/index.html",
     "title": "blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code 1\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code 1\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n认知计算预测性维护调研文档\n\n\n\n\n\n\n\ndocument\n\n\npaper\n\n\n\n\nxxx\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/paperread/posts/abc/abc.html",
@@ -264,5 +264,103 @@
     "title": "认知计算推进文档",
     "section": "",
     "text": "大致分为三个阶段:\n\n提取认知经验：把多模态认知数据转化为标准化的经验\n\n工厂的预测性维护里面，有经验的维修师傅判断设备需不需要维护的时候有自己的一套流程，比如先看发动机，再看齿轮箱，看的时候也有一个思考的过程。目前有研究把这种认知经验考虑进去，捕捉人的眼动数据，收集人的脑电信号，再用一些模型算法去分析这些数据。\n\n基于以往认知经验的推荐\n\n类似于目前推荐系统在做的工作，针对当前任务，根据以往经验进行认知推荐\n\n经验的使用和反馈\n\n工作人员使用的认知经验和自身经验冲突时，如何在两者之间做一个融合\n\n\n\n\n\n如何细化并推进里面的内容：先查阅一点资料，一遍看一遍思考，可以先做一个demo\n\n其他的不管，先了解第一块，其他人是怎么做的，自己是否也能做。\n\n\n\n\n\n\n2022年12月28日：\n\n一周时间调研：\n\n调研内容：（1）大一点的方向：认知加预测性维护，别人怎么做的（2）小一点的方向：有关多模态的认知经验，如何提取信号，如何转换为经验\n调研输出：大范围粗读加几篇论文精读\n\n粗读论文：别人是怎么做的，总结出来，是否有一些灵感\n精度论文：别人具体是怎么做的，自己是否可以参考和复现，能不能把别人的东西讲清楚\n思考输出：一些idea和收获\n一个或者两个文档（收获加文章精读文档）\n\n论文阅读规划\n\n认知加预测性维护综述\n挑选几篇可复现的方案\n\nextra：论文粗读、精读、收获总结的流程打通\n\n\n\n\n\n\n\n整理总体思路\n整理学习资料和学习路线\n论文阅读规划"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html",
+    "href": "src/blog/posts/bookmemory.html",
+    "title": "又携书剑路茫茫",
+    "section": "",
+    "text": "得闲整理了下书架上面的书，很多书虽然内容忘了，还是记得当时买的缘由和读的经历，决定记录下"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#百年孤独",
+    "href": "src/blog/posts/bookmemory.html#百年孤独",
+    "title": "又携书剑路茫茫",
+    "section": "百年孤独",
+    "text": "百年孤独\n高中学校大扫除时中午请假出去玩，在书店一眼相中。冲这名字买的，看的时候也不觉得无聊，只觉得光怪陆离，喜欢这种风格，后来才知道这本书很难读下去。 高二的时候看了两遍，但也没看懂，如今什么都忘了。\n\n\n\n百年孤独"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#爱情和其他魔鬼",
+    "href": "src/blog/posts/bookmemory.html#爱情和其他魔鬼",
+    "title": "又携书剑路茫茫",
+    "section": "爱情和其他魔鬼",
+    "text": "爱情和其他魔鬼\n看了百年孤独之后，在书店找过同一作者的书，也是看名字挑到的这本。除了名字之外，书的后记也一下子击中我了。 风格和百年孤独一样\n\n\n\n爱情和其他魔鬼\n\n\n\n\n\n413d39929ac1fd6b46a15b183520ce3.jpg"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#牧羊少年奇幻之旅",
+    "href": "src/blog/posts/bookmemory.html#牧羊少年奇幻之旅",
+    "title": "又携书剑路茫茫",
+    "section": "牧羊少年奇幻之旅",
+    "text": "牧羊少年奇幻之旅\n原书没找到了，当时很喜欢这本书，同样想法瑰丽，在高中那段封闭环境里面这种书对我有致命的吸引力。 当然这本书也确实好看，是一个奇幻但温暖的故事。 ## 波多贝罗女巫 看了牧羊少年奇幻之旅之后意犹未尽，在书店找到的这本书。 一眼相中了书名，如今也只对名字印象深刻，具体情节反而全忘了。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#童年-在人间-我的大学",
+    "href": "src/blog/posts/bookmemory.html#童年-在人间-我的大学",
+    "title": "又携书剑路茫茫",
+    "section": "童年-在人间-我的大学",
+    "text": "童年-在人间-我的大学\n外国小说的启蒙，算是阅读的第一部外国小说大部头。初中读的，导致初中后面很长一段时间只爱看外国小说（悲惨世界、大卫科波菲尔、基督山伯爵等）。到了高中类似的小说反而看得少了，很多都是光买不看。 对这本书印象深刻的另外一个原因是当时喜欢把零花钱和一些小纸条藏里面，因为这本书是精装版且是大部头，藏一点东西根本看不出来。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#龙族三黑月之潮下",
+    "href": "src/blog/posts/bookmemory.html#龙族三黑月之潮下",
+    "title": "又携书剑路茫茫",
+    "section": "龙族三黑月之潮下",
+    "text": "龙族三黑月之潮下\n龙族里面最喜欢的就是这部，很喜欢绘梨衣这个角色。高中月假期间把这一部的结局看完的，反复看了好几遍，不小心哭了。 后面也喜欢一首以这个故事为背景的歌，叫《最后的旅行》，把歌词抄在小本本上过。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#荷马史诗两部伊利亚特-奥德赛",
+    "href": "src/blog/posts/bookmemory.html#荷马史诗两部伊利亚特-奥德赛",
+    "title": "又携书剑路茫茫",
+    "section": "荷马史诗两部：伊利亚特-奥德赛",
+    "text": "荷马史诗两部：伊利亚特-奥德赛\n受龙族影响，喜欢看一点北欧以及希腊神话。然后偶然了解到这本书，一下子相中了。 实际上这本书也确实好看，使用叙事诗的方式写了一整个故事（公路片），上下两部分别是来回。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#上海堡垒",
+    "href": "src/blog/posts/bookmemory.html#上海堡垒",
+    "title": "又携书剑路茫茫",
+    "section": "上海堡垒",
+    "text": "上海堡垒\n江南写的爱情故事，当时很喜欢，结局有点意难平。 后来发现江南就这种风格，不上不下让人有点不舒服。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#易经",
+    "href": "src/blog/posts/bookmemory.html#易经",
+    "title": "又携书剑路茫茫",
+    "section": "易经",
+    "text": "易经\n高中有一段时间的同桌对易经和佛学颇有了解，受他影响也学了点易经乃至佛教的一些知识，大学期间还修习了一门易经课程。 最后还是没研究明白什么，但是对第一节的一些句子印象挺深的。 > 龙战于野，其血玄黄 > 初九潜龙勿用 > 九四，或跃在渊\n\n\n\n611c3e7a0f2b44e138c88e4aa26151e.jpg"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#千年一叹",
+    "href": "src/blog/posts/bookmemory.html#千年一叹",
+    "title": "又携书剑路茫茫",
+    "section": "千年一叹",
+    "text": "千年一叹\n从这本书了解的余秋雨，高三趁午休的时候读完的，当时中午老是睡不着，然后靠一些杂书和漫画打发时间。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#霜冷长河",
+    "href": "src/blog/posts/bookmemory.html#霜冷长河",
+    "title": "又携书剑路茫茫",
+    "section": "霜冷长河",
+    "text": "霜冷长河\n忘记什么时候读的去了，但是现在来看这本书对我影响还挺大的。 挺喜欢这本书的行文风格，后来也愿意读一点散文。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#其他散文",
+    "href": "src/blog/posts/bookmemory.html#其他散文",
+    "title": "又携书剑路茫茫",
+    "section": "其他散文",
+    "text": "其他散文\n\n云烟过客\n以为是散文才买的，后来发现不太像散文，还是大概读完了。目前只对书名和作者名字有印象。\n ### 人间草木 汪曾祺写的文字还是比较有趣的，对于里面一些片段很喜欢，但是又没有全本读完的动力。 \n\n\n美人何处\n并不是什么大家，而是一个网络作者写的历史类散文，高中时候挺喜欢的，现在应该没有感觉了。 现在如果要评价的话，感觉这本书偏文艺，比较艳，正如魏晋南北朝那段历史。  ## 查令十字街 84 号 原书没找到了，是以信件形式写的一本小说，讲了一个很温馨的故事。"
+  },
+  {
+    "objectID": "src/blog/posts/bookmemory.html#借山而居",
+    "href": "src/blog/posts/bookmemory.html#借山而居",
+    "title": "又携书剑路茫茫",
+    "section": "借山而居",
+    "text": "借山而居\n受高中环境影响，有一段时间很出世，觉得一个人隐居也挺好的，连带着高考志愿想选建筑，希望自己造个房子。 不过这本书也写的还可以，作者自己是个美术生，跑在西南边陲的小山村里面独自生活，现在想想肯定很苦，但是作者写的挺有意思和意境的。"
+  },
+  {
+    "objectID": "src/paperread/posts/cognitivedoc.html",
+    "href": "src/paperread/posts/cognitivedoc.html",
+    "title": "认知计算预测性维护调研文档",
+    "section": "",
+    "text": "总体目标\n\n了解认知加预测性维护，别人怎么做的\n\n大部分认知预测性维护工作，也需要一个简单但精准的总结，需要解释一下这种认知预测性维护的劣势\n\n基于人的认知预测性维护，找一个类似的方案精读然后复现\n\n了解相关的论文有哪些，采集人的认知信号进行推理分析\n可能不叫认知预测性维护，而是认知人因、认知经验，认知建模一类的，换一点关键词\n参考资料：jzh 博士生 lxy 的论文，电院郑伟龙相关论文 # inbox\n\n发现大多数论文提到的认知预测性维护是机器认知，通过机器的推理模拟人的认知推理过程（大概）\n\n\n\n过程\n\n\n输出"
   }
 ]

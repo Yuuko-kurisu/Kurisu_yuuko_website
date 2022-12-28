@@ -2,6 +2,7 @@
   {
     "listing": "/src/blog/index.html",
     "items": [
+      "/src/blog/posts/bookmemory.html",
       "/src/blog/posts/memory.html"
     ]
   },
@@ -9,6 +10,7 @@
     "listing": "/src/paperread/index.html",
     "items": [
       "/src/paperread/posts/abc/abc.html",
+      "/src/paperread/posts/cognitivedoc.html",
       "/src/paperread/posts/post-with-code/index.html",
       "/src/paperread/posts/welcome/index.html"
     ]
