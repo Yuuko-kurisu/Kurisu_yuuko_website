@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "论文精读"
 listing:
   contents: posts
   sort: "date desc"

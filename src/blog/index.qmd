@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "mene, mene, tekel, upharsin"
 listing:
   contents: posts
   sort: "date desc"

@@ -32,21 +32,21 @@ website:
       - section: "Kurisu's Blog"
         contents:
           - href: src\weekly\index.qmd
-            text: Weekly
+            text: 周记
           - href: src\blog\index.qmd
-            text: Blog
+            text: 博客
       - section: "Project"
         contents:
           - href: src\projectshow\index.qmd
-            text: Project'show
+            text: 项目成果展示
           - href: src\proceeding\index.qmd
-            text: Project'proceeding
+            text: 长期项目推进
       - section: "Technical"
         contents:
           - href: src\techdoc\index.qmd
-            text: Technical Document
+            text: 技术博客
           - href: src\paperread\index.qmd
-            text: Read Papers
+            text: 论文精读
     tools:
       - icon: twitter
         href: https://twitter.com
