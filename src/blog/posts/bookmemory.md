@@ -3,7 +3,7 @@ title: "又携书剑路茫茫"
 author: "Hongwei Jiang"
 date: "2022-12-28"
 categories: [blog, record]
-image: "./plot/roman.jpg"
+image: "./plot/book.jpg"
 draft: false
 ---
 
