@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "14303c44fd60552e",
+        "id": "ba8ddacff12c5c9b",
         "type": "tabs",
         "children": [
           {
-            "id": "b260c0fbc6da66d8",
+            "id": "c370631e4018dc22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/proceeding/posts/knowledge.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/proceeding/posts/knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/proceeding/posts/knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +119,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/proceeding/posts/knowledge.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,17 +143,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b260c0fbc6da66d8",
+  "active": "c370631e4018dc22",
   "lastOpenFiles": [
+    "src/weekly/posts/weekly20221231.md",
+    "src/weekly/posts/plot/周记20221229.png",
+    "src/paperread/posts/cognitivedoc.md",
+    "src/proceeding/posts/cognitivecomputing.md",
+    "src/proceeding/posts/knowledge.md",
     "src/blog/posts/memory.md",
     "CV.md",
     "src/blog/posts/bookmemory.md",
-    "src/proceeding/posts/cognitivecomputing.md",
     "Guide.md",
-    "about.md",
-    "src/paperread/posts/cognitivedoc.md",
-    "src/paperread/profile.jpg",
-    "src/proceeding/posts/knowledge.md",
-    "src/weekly/posts/test1.md"
+    "about.md"
   ]
 }
