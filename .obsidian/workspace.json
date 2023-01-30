@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/blog/posts/bookmemory.md",
+                "file": "about.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/blog/posts/bookmemory.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/blog/posts/bookmemory.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/blog/posts/bookmemory.md"
+                "file": "about.md"
               }
             }
           }
@@ -154,15 +154,15 @@
   },
   "active": "c370631e4018dc22",
   "lastOpenFiles": [
+    "Readme.md",
+    "index.md",
+    "Guide.md",
+    "src/paperread/posts/cognitivedoc.md",
+    "src/blog/posts/memory.md",
+    "src/blog/posts/bookmemory.md",
     "src/weekly/posts/weekly20221231.md",
     "src/weekly/posts/plot/周记20221229.png",
-    "src/paperread/posts/cognitivedoc.md",
     "src/proceeding/posts/cognitivecomputing.md",
-    "src/proceeding/posts/knowledge.md",
-    "src/blog/posts/memory.md",
-    "CV.md",
-    "src/blog/posts/bookmemory.md",
-    "Guide.md",
-    "about.md"
+    "src/proceeding/posts/knowledge.md"
   ]
 }

@@ -142,9 +142,9 @@
   {
     "objectID": "src/projectshow/index.html",
     "href": "src/projectshow/index.html",
-    "title": "项目成果展示",
+    "title": "满堂花醉三千客，一剑霜寒十四州",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code 1\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/projectshow/posts/abc/abc.html",
@@ -214,7 +214,7 @@
     "href": "src/weekly/index.html",
     "title": "靡不有初, 鲜克有终",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n2022年12月31日\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n2022年12月31日\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n2022年12月31日\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/weekly/posts/abc/abc.html",
@@ -399,22 +399,29 @@
     "text": "数学女孩\n和数学有关的爱情故事（maybe）\n\n\n\n90d0c207d34b52932ec6afe4670b2a0.jpg"
   },
   {
-    "objectID": "src/weekly/posts/weekly20221231.html",
-    "href": "src/weekly/posts/weekly20221231.html",
+    "objectID": "src/weekly/posts/weekly20221231_show.html",
+    "href": "src/weekly/posts/weekly20221231_show.html",
+    "title": "2022年12月31日",
+    "section": "",
+    "text": "本周规划了大约10天，但是还是有很多事情没做完，原因是后面几天都有点摆烂，后面几天没心思学习\n总结：每周的论文阅读和总结仍然没有完成，以及知识系统的代码还没开始写。\n信息物理系统论文写了个大致的思路，但是距离预想还是差挺多的（预期是给一个初稿）\n论文修改也没有完全按照规划完成，预期应该是全都知道怎么修改。\n误差复习时间比预想更久\n下周规划：这周规划内容太多，且有突发事件，后续应该找回状态，不谈弥补，至少按计划行事。\n\n\n\n\n\n这周没有编写代码。\n\n\n\n\n这周其实看论文不少，但是基本都是粗读，没有仔细看过论文，这是一直以来的问题。所以才会想要每周精读一点论文，但是目前还没走上正轨，这周一定要坚持了。\n另外这张图貌似看不出什么信息，下周换个报表。\n\n\n\n\n没想到这周微信登顶了，浏览器大部分时间应该在查资料，后面ppt，obsidian、zotero看起来还可以。但是总感觉有效学习时间应该不如上周。\n\n\n\n\n\n\n早睡早起：这周睡得晚也起得晚，下周开始保证11点上床，七点半起床了。\n周记总结：Done\n论文精读：这周没有完成\n\n其他习惯待定"
+  },
+  {
+    "objectID": "src/weekly/posts/weekly20230109.html",
+    "href": "src/weekly/posts/weekly20230109.html",
     "title": "2022年12月31日",
     "section": "",
     "text": "本周周记只规划了三天，具体做事情可能只有 29 日一天。30 日上午参加了智能运维交叉论坛，下午回去了，今天上午去了医院，下午写总结。\n明天还有一天可以多看点论文，把项目上的一些事情做完。\n\n\n\n\n\nVscode 软件使用报表，整体还可以，尽量达到 20 小时每周，日均 3h 差不多。\n\n\n\nimage.png\n\n\n\n\n\nimage.png\n\n\n\n\n\n主要阅读时间在看自己论文和人因的书籍，时间都不多，这周总共才两三个小时，下周应该进入正轨。\n\n\n\nimage.png\n\n\n\n\n\n浏览器很大一部分是看 R 语言教程，整体尚可\n\n\n\nimage.png\n\n\n\n\n\n\n\n早睡早起：Done，这周睡得早但起的稍晚\n周记总结：Done\n论文精读：这周没有完成\n\n其他习惯待定\n\n\n\n\n这周的学术计划（知识系统、论文修改和论文精读）继续往前推。\n多尝试点不同形式的娱乐，找到自己兴趣\n学会做 10 种菜品"
   },
   {
-    "objectID": "src/weekly/posts/weekly20221231.html#生活收获",
-    "href": "src/weekly/posts/weekly20221231.html#生活收获",
+    "objectID": "src/weekly/posts/weekly20230109.html#生活收获",
+    "href": "src/weekly/posts/weekly20230109.html#生活收获",
     "title": "2022年12月31日",
     "section": "生活收获",
     "text": "生活收获\n这周最重要的进展是搭建了博客网站的框架，一定程度上也激励自己整理文字，做周记做总结\n这周也回忆了家中书架上印象深刻的书籍，记录下来感觉挺有意义的。\n看视频方面发现自己还是喜欢快节奏的视频（解说）和科普类视频，这周看影视飓风的视频比较多，画质好且内容有编排，观看体验还是可以的。"
   },
   {
-    "objectID": "src/weekly/posts/weekly20221231.html#想法",
-    "href": "src/weekly/posts/weekly20221231.html#想法",
+    "objectID": "src/weekly/posts/weekly20230109.html#想法",
+    "href": "src/weekly/posts/weekly20230109.html#想法",
     "title": "2022年12月31日",
     "section": "想法",
     "text": "想法\n腊八回家的时候发现家里的老人都老了很多"

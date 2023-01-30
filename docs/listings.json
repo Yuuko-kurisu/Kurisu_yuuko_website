@@ -23,8 +23,6 @@
   {
     "listing": "/src/projectshow/index.html",
     "items": [
-      "/src/projectshow/posts/abc/abc.html",
-      "/src/projectshow/posts/post-with-code/index.html",
       "/src/projectshow/posts/welcome/index.html"
     ]
   },
@@ -39,7 +37,8 @@
   {
     "listing": "/src/weekly/index.html",
     "items": [
-      "/src/weekly/posts/weekly20221231.html"
+      "/src/weekly/posts/weekly20221231_show.html",
+      "/src/weekly/posts/weekly20230109.html"
     ]
   }
 ]
