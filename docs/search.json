@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "SJTU\n\n\nI am Hongwei Jiang, currently pursuing the Ph.D. degree with the Shanghai Jiao Tong University （SJTU） for Industrial Engineering. Before joining SJTU in 2021, I have received the B.S. degree in Industrial Engineering from Huazhong University of Science and Technology, Wuhan, China, in 2021.\nMy current research interests include Reliability engineering, Prognostics Health Management, Predictive Maintenance for Discrete Manufacturing Systems, Automatic feature engineering, Computational Intelligence and Data-driven machine learning.\n\nGithub: Yuuko-kurisu (kurisubllm) (github.com)"
+    "text": "SJTU\n\n\nI am Hongwei Jiang, currently pursuing the Ph.D. degree with the Shanghai Jiao Tong University （SJTU） for Industrial Engineering. Before joining SJTU in 2021, I have received the B.S. degree in Industrial Engineering from Huazhong University of Science and Technology, Wuhan, China, in 2021.\nMy current research interests include Reliability engineering, Prognostics Health Management, Predictive Maintenance for Discrete Manufacturing Systems, Automatic feature engineering, Computational Intelligence and Data-driven machine learning.\n\nGithub: Yuuko-kurisu (kurisubllm) (github.com)\nMastodon：Jacoby Tekel 蒋泓玮"
   },
   {
     "objectID": "CV.html",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Kurisu yuuko’s Homepage",
     "section": "",
-    "text": "This is my personal homepage mainly to record my study and research in SJTU."
+    "text": "SJTU\n\n\nI am Hongwei Jiang, currently pursuing the Ph.D. degree with the Shanghai Jiao Tong University （SJTU） for Industrial Engineering. Before joining SJTU in 2021, I have received the B.S. degree in Industrial Engineering from Huazhong University of Science and Technology, Wuhan, China, in 2021.\nMy current research interests include Reliability engineering, Prognostics Health Management, Predictive Maintenance for Discrete Manufacturing Systems, Automatic feature engineering, Computational Intelligence and Data-driven machine learning.\n\nGithub: Yuuko-kurisu (kurisubllm) (github.com)\nMastodon：Jacoby Tekel 蒋泓玮"
   },
   {
     "objectID": "Readme.html",
@@ -179,7 +179,7 @@
     "href": "src/techdoc/index.html",
     "title": "天命玄鸟",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code 1\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/techdoc/posts/abc/abc.html",
@@ -425,5 +425,26 @@
     "title": "2022年12月31日",
     "section": "想法",
     "text": "想法\n腊八回家的时候发现家里的老人都老了很多"
+  },
+  {
+    "objectID": "src/gallery/about.html",
+    "href": "src/gallery/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "src/gallery/index.html",
+    "href": "src/gallery/index.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n认知计算预测性维护调研文档\n\n\n\n\n\n\n\ndocument\n\n\npaper\n\n\n\n\nxxx\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "src/gallery/posts/cognitivedoc.html",
+    "href": "src/gallery/posts/cognitivedoc.html",
+    "title": "认知计算预测性维护调研文档",
+    "section": "",
+    "text": "总体目标\n\n了解什么是认知，看综述，看书籍\n了解认知加预测性维护，别人怎么做的\n\n大部分认知预测性维护工作，也需要一个简单但精准的总结，需要解释一下这种认知预测性维护的劣势\n\n基于人的认知预测性维护，找一个类似的方案精读然后复现\n\n了解相关的论文有哪些，采集人的认知信号进行推理分析\n可能不叫认知预测性维护，而是认知人因、认知经验，认知建模一类的，换一点关键词\n参考资料：jzh 博士生 lxy 的论文，电院郑伟龙相关论文 # inbox\n\n发现大多数论文提到的认知预测性维护是机器认知，通过机器的推理模拟人的认知推理过程（大概）\n目前的计划\n\n郑伟龙几篇论文粗读加其中两篇精读\n书籍先看完前言部分\n这段时间以 zetero 实验使用为主\n\n\n\n\n过程\n\n\n输出"
   }
 ]

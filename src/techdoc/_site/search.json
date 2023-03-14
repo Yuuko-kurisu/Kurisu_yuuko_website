@@ -9,22 +9,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "blog",
+    "title": "天命玄鸟",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n科研经验分享\n\n\n\n\n\n\n\ndocument\n\n\nrecord\n\n\nresearch\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/website.html",
+    "href": "posts/website.html",
+    "title": "科研经验分享",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "组织生活会的科研经验分享"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "posts/website.html#时间轴",
+    "href": "posts/website.html#时间轴",
+    "title": "科研经验分享",
+    "section": "时间轴",
+    "text": "时间轴\n\n2022年12月28日：根据quarto 的教程和模板搭建了网站内容的基本框架，之后逐渐开始填写内容\n\n之后的打算：以周为单位填充网站内容"
+  },
+  {
+    "objectID": "posts/website.html#待解决问题",
+    "href": "posts/website.html#待解决问题",
+    "title": "科研经验分享",
+    "section": "待解决问题",
+    "text": "待解决问题\n\n主页、个人简历页相关内容补充\n找到各种类型文档的范式"
+  },
+  {
+    "objectID": "posts/website.html#科研使用场景文献调研",
+    "href": "posts/website.html#科研使用场景文献调研",
+    "title": "科研经验分享",
+    "section": "科研使用场景：文献调研",
+    "text": "科研使用场景：文献调研\n\n\n演示视频如下"
+  },
+  {
+    "objectID": "posts/website.html#科研使用场景文献管理",
+    "href": "posts/website.html#科研使用场景文献管理",
+    "title": "科研经验分享",
+    "section": "科研使用场景：文献管理",
+    "text": "科研使用场景：文献管理"
+  },
+  {
+    "objectID": "posts/website.html#科研使用场景文献阅读",
+    "href": "posts/website.html#科研使用场景文献阅读",
+    "title": "科研经验分享",
+    "section": "科研使用场景：文献阅读",
+    "text": "科研使用场景：文献阅读\n\n\n演示视频如下"
+  },
+  {
+    "objectID": "posts/website.html#科研使用场景文献笔记",
+    "href": "posts/website.html#科研使用场景文献笔记",
+    "title": "科研经验分享",
+    "section": "科研使用场景：文献笔记",
+    "text": "科研使用场景：文献笔记\n\n\n演示视频如下"
   }
 ]

@@ -29,8 +29,6 @@
   {
     "listing": "/src/techdoc/index.html",
     "items": [
-      "/src/techdoc/posts/abc/abc.html",
-      "/src/techdoc/posts/post-with-code/index.html",
       "/src/techdoc/posts/welcome/index.html"
     ]
   },
@@ -39,6 +37,12 @@
     "items": [
       "/src/weekly/posts/weekly20221231_show.html",
       "/src/weekly/posts/weekly20230109.html"
+    ]
+  },
+  {
+    "listing": "/src/gallery/index.html",
+    "items": [
+      "/src/gallery/posts/cognitivedoc.html"
     ]
   }
 ]
