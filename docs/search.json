@@ -193,7 +193,7 @@
     "href": "src/gallery/index.html",
     "title": "Gallery",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n红与黑-todo\n\n\n\n\n\n\n\ndocument\n\n\npaper\n\n\n\n\nxxx\n\n\n\n\n\n\nMar 13, 2023\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n2023-03-生活记录\n\n\n\n\n\n\n\ndocument\n\n\npaper\n\n\n\n\nupdating~\n\n\n\n\n\n\nMar 13, 2023\n\n\nHongwei Jiang\n\n\n\n\n\n\n  \n\n\n\n\n红与黑-todo\n\n\n\n\n\n\n\ndocument\n\n\npaper\n\n\n\n\nxxx\n\n\n\n\n\n\nMar 13, 2023\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "src/paperread/about.html",
@@ -355,5 +355,26 @@
     "title": "2023年1月09日",
     "section": "想法",
     "text": "想法\n腊八回家的时候发现家里的老人都老了很多"
+  },
+  {
+    "objectID": "src/gallery/posts/2023-03-生活记录.html",
+    "href": "src/gallery/posts/2023-03-生活记录.html",
+    "title": "2023-03-生活记录",
+    "section": "",
+    "text": "在交大的第二个生日，一起过生日的人从新朋友变成了老朋友~\n\n生日当天自己不太正常，可能是上午去理了个发的原因\n\n\n\n\n0305_1\n\n\n\n\n\n0305_2"
+  },
+  {
+    "objectID": "src/gallery/posts/2023-03-生活记录.html#夜色",
+    "href": "src/gallery/posts/2023-03-生活记录.html#夜色",
+    "title": "2023-03-生活记录",
+    "section": "夜色",
+    "text": "夜色\n\n\n\n夜色"
+  },
+  {
+    "objectID": "src/gallery/posts/2023-03-生活记录.html#早春",
+    "href": "src/gallery/posts/2023-03-生活记录.html#早春",
+    "title": "2023-03-生活记录",
+    "section": "早春",
+    "text": "早春\n\n\n\n早春"
   }
 ]
