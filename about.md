@@ -13,3 +13,4 @@ My current research interests include Reliability engineering, Prognostics Healt
 
 
 -  Github: [Yuuko-kurisu (kurisubllm) (github.com)](https://github.com/Yuuko-kurisu)
+-  Mastodon：[Jacoby Tekel 蒋泓玮](https://sciences.social/@jacobytekel)
