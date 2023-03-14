@@ -7,6 +7,12 @@
     ]
   },
   {
+    "listing": "/src/gallery/index.html",
+    "items": [
+      "/src/gallery/posts/cognitivedoc.html"
+    ]
+  },
+  {
     "listing": "/src/paperread/index.html",
     "items": [
       "/src/paperread/posts/cognitivedoc.html"
@@ -29,20 +35,14 @@
   {
     "listing": "/src/techdoc/index.html",
     "items": [
-      "/src/techdoc/posts/welcome/index.html"
+      "/src/techdoc/posts/website.html"
     ]
   },
   {
     "listing": "/src/weekly/index.html",
     "items": [
-      "/src/weekly/posts/weekly20221231_show.html",
-      "/src/weekly/posts/weekly20230109.html"
-    ]
-  },
-  {
-    "listing": "/src/gallery/index.html",
-    "items": [
-      "/src/gallery/posts/cognitivedoc.html"
+      "/src/weekly/posts/weekly20230109.html",
+      "/src/weekly/posts/weekly20221231_show.html"
     ]
   }
 ]

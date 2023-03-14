@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Gallery",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n认知计算预测性维护调研文档\n\n\n\n\n\n\n\ndocument\n\n\npaper\n\n\n\n\nxxx\n\n\n\n\n\n\nDec 28, 2022\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n红与黑-todo\n\n\n\n\n\n\n\ndocument\n\n\npaper\n\n\n\n\nxxx\n\n\n\n\n\n\nMar 13, 2023\n\n\nHongwei Jiang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/cognitivedoc.html",
+    "href": "posts/cognitivedoc.html",
+    "title": "红与黑-todo",
+    "section": "",
+    "text": "总体目标\n\n了解什么是认知，看综述，看书籍\n了解认知加预测性维护，别人怎么做的\n\n大部分认知预测性维护工作，也需要一个简单但精准的总结，需要解释一下这种认知预测性维护的劣势\n\n基于人的认知预测性维护，找一个类似的方案精读然后复现\n\n了解相关的论文有哪些，采集人的认知信号进行推理分析\n可能不叫认知预测性维护，而是认知人因、认知经验，认知建模一类的，换一点关键词\n参考资料：jzh 博士生 lxy 的论文，电院郑伟龙相关论文 # inbox\n\n发现大多数论文提到的认知预测性维护是机器认知，通过机器的推理模拟人的认知推理过程（大概）\n目前的计划\n\n郑伟龙几篇论文粗读加其中两篇精读\n书籍先看完前言部分\n这段时间以 zetero 实验使用为主\n\n\n\n\n过程\n\n\n输出"
   }
 ]
