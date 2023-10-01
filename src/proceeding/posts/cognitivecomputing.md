@@ -1,10 +1,12 @@
 ---
-title: "认知计算推进文档"
-author: "Hongwei Jiang"
-date: "2022-12-28"
-abstract: "xxx"
-categories: [document, record]
-image: "./plot/image.jpg"
+title: 认知计算推进文档
+author: Hongwei Jiang
+date: 2022-12-28
+abstract: "[[认知学习]]"
+categories:
+  - document
+  - record
+image: ./plot/image.jpg
 draft: false
 ---
 
