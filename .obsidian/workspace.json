@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/proceeding/posts/cognitivecomputing.md",
+                "file": "src/proceeding/posts/knowledge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/proceeding/posts/cognitivecomputing.md",
+                "file": "src/proceeding/posts/knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/proceeding/posts/cognitivecomputing.md",
+                "file": "src/proceeding/posts/knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/proceeding/posts/cognitivecomputing.md"
+                "file": "src/proceeding/posts/knowledge.md"
               }
             }
           }
@@ -172,9 +172,9 @@
   },
   "active": "166edd445d808547",
   "lastOpenFiles": [
-    "认知学习.md",
     "src/proceeding/posts/cognitivecomputing.md",
     "src/gallery/posts/2023-03-生活记录.md",
+    "认知学习.md",
     "src/gallery/posts/plot/202303/0305_2.jpg",
     "src/gallery/posts/plot/202303/IMG_20230303_204326.jpg",
     "src/gallery/posts/plot/202303/0305_1.jpg",
